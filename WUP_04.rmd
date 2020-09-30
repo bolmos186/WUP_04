@@ -1,6 +1,6 @@
 ---
 title: "WUP_04"
-author: "Put your name here!"
+author: "Bethanee Olmos"
 date: "fall 2020"
 output:
   html_document:
